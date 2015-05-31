@@ -23,7 +23,7 @@ public class MainActivity extends Activity {
 
     private TextView textView;
 
-
+	private hogehoge; //for git test
 
 
     @Override
